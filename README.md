@@ -5,7 +5,7 @@ Chromium version 52.0.2743.0 that still supports docked panels. Required for [ol
 
 # Why we have to do this?
 The [Chrome team has confirmed](https://bugs.chromium.org/p/chromium/issues/detail?id=467808) that starting from Chrome version 54 and above pannels will not be supported.
-Pannels support is the feature in charge of docking floating windows in [hangouts](https://bugs.chromium.org/p/chromium/issues/detail?id=467808) and other popular extensions as [Panel Tabs](https://github.com/lnikkila/chrome-panel-tabs) or [Plus for Trello](http://www.plusfortrello.com/p/about.html).
+Pannels support is the feature in charge of docking floating windows in [hangouts](https://github.com/old-hangouts/old-hangouts-chrome-extension) and other popular extensions as [Panel Tabs](https://github.com/lnikkila/chrome-panel-tabs) or [Plus for Trello](http://www.plusfortrello.com/p/about.html).
 
 # Instructions
 - Download this repository (or clone it)
